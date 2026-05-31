@@ -127,7 +127,7 @@ Instant Reply         Groq AI Response
 
 **Hansika Madhyala**
 - GitHub: [@hansikamadhyala-ops](https://github.com/hansikamadhyala-ops)
-- LinkedIn: [Add your LinkedIn here]
+- LinkedIn: linkedin.com/in/hansika-raj
 
 ---
 
